@@ -1,0 +1,6 @@
+framework module WFDSDK {
+  umbrella header "WFDSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
